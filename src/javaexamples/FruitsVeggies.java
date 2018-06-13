@@ -9,7 +9,7 @@ package javaexamples;
 import javaexamples.CheckFruitNVeggies;
 
 /*
- * Defining a public class HelloWorld
+ * Defining a public class FruitsVeggies
  */
 public class FruitsVeggies {
 	

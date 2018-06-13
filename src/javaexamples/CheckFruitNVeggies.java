@@ -4,7 +4,8 @@
 package javaexamples;
 
 /*
- * Defining a public class HelloWorld
+ * Defining a public class CheckFruitNVeggies.
+ * This program will validate fruit and veggie passed to the functions.
  */
 public class CheckFruitNVeggies {
 	

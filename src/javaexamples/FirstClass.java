@@ -4,7 +4,9 @@
 package javaexamples;
 
 /*
- * Defining a public class HelloWorld
+ * Defining a public class FirstClass
+ * 
+ * This program will demonstrate how to create a class and a function (method)
  */
 public class FirstClass {
 	
