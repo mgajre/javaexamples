@@ -1,6 +1,3 @@
-/*
- * Creating my own package for all java examples
- */
 package javaexamples;
 
 /*
